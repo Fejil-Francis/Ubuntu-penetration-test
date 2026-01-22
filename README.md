@@ -69,7 +69,8 @@ ifconfig eth0
 ```
 While scanning the vulnerabilities of machine,the report should be stored in a file,so i created a folder Ubuntu in /home/kali
 ```bash
-mkdir ubuntu cd ubuntu
+mkdir ubuntu
+cd ubuntu
 touch report.txt
 ```
 
